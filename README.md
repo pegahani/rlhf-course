@@ -9,7 +9,8 @@ Notebook links open in Google Colab. Choose **Runtime → Change runtime type �
 
 | Session | Topic | Materials |
 |---|---|---|
-| 1 | from base models to RLHF | [Slides (PDF)](lecture-1/slides.pdf) · [lab-01-sft](https://colab.research.google.com/github/pegahani/rlhf-course/blob/main/lecture-1/lab/lab-01-sft.ipynb) · [hw0-llm-basics](https://colab.research.google.com/github/pegahani/rlhf-course/blob/main/lecture-1/homework/hw0-llm-basics.ipynb) · [hw1-bradley-terry](https://colab.research.google.com/github/pegahani/rlhf-course/blob/main/lecture-1/homework/hw1-bradley-terry.ipynb) |
+| 1 | from base models to RLHF | [Slides (PDF)](lecture-1/slides.pdf) · [lab-01-sft](https://colab.research.google.com/github/pegahani/rlhf-course/blob/main/lecture-1/lab/lab-01-sft.ipynb) · [hw0-llm-basics](https://colab.research.google.com/github/pegahani/rlhf-course/blob/main/lecture-1/homework/hw0-llm-basics.ipynb) |
+| 2 | preferences and reward models | [Slides (PDF)](lecture-2/slides.pdf) · lab and homework coming soon |
 
 ## Using Kaggle instead of Colab
 
